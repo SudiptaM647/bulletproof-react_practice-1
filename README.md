@@ -14,8 +14,9 @@ This repo attempts to present a way of creating React applications using some of
 The goal here is to serve as a collection of resources and best practices when developing React applications. It is supposed to showcase solving most of the real-world problems of an application in a practical way and help developers write better applications.
 
 Feel free to explore the sample app codebase to get the most value out of the repo.
+
 Sample sentence: this is a practice line. 
-Sample sentence 2: Conflict
+Sample sentence 2: Another practice line. Conflict and resolution.
 
 ## What makes a React application "bulletproof"?
 
