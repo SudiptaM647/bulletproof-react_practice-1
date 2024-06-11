@@ -15,6 +15,7 @@ The goal here is to serve as a collection of resources and best practices when d
 
 Feel free to explore the sample app codebase to get the most value out of the repo.
 Sample sentence: this is a practice line. 
+Sample sentence 2: Conflict
 
 ## What makes a React application "bulletproof"?
 
